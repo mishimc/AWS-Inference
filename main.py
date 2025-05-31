@@ -75,7 +75,7 @@ async def predict(
     prediction = int(model.predict(features)[0])
 
     return templates.TemplateResponse(
-        "form.html",
+        "forms.html",
         {
             "request": request,
             "result": f"Ventas estimadas: {prediction} unidades",

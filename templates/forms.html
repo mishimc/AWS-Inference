@@ -1,18 +1,47 @@
 <!DOCTYPE html>
 <html>
-<head><title>Predicción con Iris</title></head>
+<head>
+    <title>Predicción de Ventas</title>
+</head>
 <body>
-  <h2>Formulario para predicción</h2>
-  <form action="/predict" method="post">
-    <label>Sepal length:</label><input type="number" step="any" name="sepal_length"><br>
-    <label>Sepal width:</label><input type="number" step="any" name="sepal_width"><br>
-    <label>Petal length:</label><input type="number" step="any" name="petal_length"><br>
-    <label>Petal width:</label><input type="number" step="any" name="petal_width"><br>
-    <button type="submit">Predecir</button>
-  </form>
+    <h1>Ingresa los datos para predecir ventas</h1>
+    <form method="post" action="/predict">
+        <!-- Campos numéricos -->
+        <label>Temperatura (°C):</label>
+        <input type="number" step="0.1" name="temperature" required><br>
 
-  {% if result %}
-    <h3>{{ result }}</h3>
-  {% endif %}
+        <label>Flyers repartidos:</label>
+        <input type="number" name="flyers" required><br>
+
+        <label>Mes (1-12):</label>
+        <input type="number" name="month" min="1" max="12" required><br>
+
+        <!-- Selector de día -->
+        <label>Día de la semana:</label>
+        <select name="day" required>
+            <option value="Monday">Lunes</option>
+            <option value="Tuesday">Martes</option>
+            <option value="Wednesday">Miércoles</option>
+            <option value="Thursday">Jueves</option>
+            <option value="Friday">Viernes</option>
+            <option value="Saturday">Sábado</option>
+            <option value="Sunday">Domingo</option>
+        </select><br>
+
+        <!-- Selector de clima -->
+        <label>Condición climática:</label>
+        <select name="rainfall" required>
+            <option value="sunny">Soleado</option>
+            <option value="light_rain">Lluvia ligera</option>
+            <option value="heavy_rain">Lluvia intensa</option>
+        </select><br>
+
+        <button type="submit">Predecir</button>
+    </form>
+
+    <!-- Mostrar resultado -->
+    {% if result %}
+    <h2>{{ result }}</h2>
+    {% endif %}
 </body>
 </html>

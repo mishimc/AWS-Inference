@@ -22,7 +22,7 @@ expected_columns = [
 
 @app.get("/", response_class=HTMLResponse)
 def form_get(request: Request):
-    return templates.TemplateResponse("form.html", {"request": request})
+    return templates.TemplateResponse("forms.html", {"request": request})
 
 @app.post("/predict", response_class=HTMLResponse)
 async def predict(

@@ -78,6 +78,6 @@ async def predict(
         "form.html",
         {
             "request": request,
-            "result": f"Ventas estimadas: {prediccion} unidades",
+            "result": f"Ventas estimadas: {prediction} unidades",
         },
     )

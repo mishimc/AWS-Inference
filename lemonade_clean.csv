@@ -1,0 +1,366 @@
+date,day,temperature,rainfall,flyers,price,sales
+2017-01-01,Sunday,27.0,heavy rain,15,0.5,10
+2017-01-02,Monday,28.9,heavy rain,15,0.5,13
+2017-01-03,Tuesday,34.5,heavy rain,27,0.5,15
+2017-01-04,Wednesday,44.1,heavy rain,28,0.5,17
+2017-01-05,Thursday,42.4,heavy rain,33,0.5,18
+2017-01-06,Friday,25.3,heavy rain,23,0.5,11
+2017-01-07,Saturday,32.9,heavy rain,19,0.5,13
+2017-01-08,Sunday,37.5,heavy rain,28,0.5,15
+2017-01-09,Monday,38.1,heavy rain,20,0.5,17
+2017-01-10,Tuesday,43.4,heavy rain,33,0.5,18
+2017-01-11,Wednesday,32.6,heavy rain,23,0.5,12
+2017-01-12,Thursday,38.2,heavy rain,16,0.5,14
+2017-01-13,Friday,37.5,heavy rain,19,0.5,15
+2017-01-14,Saturday,44.1,heavy rain,23,0.5,17
+2017-01-15,Sunday,43.4,heavy rain,33,0.5,18
+2017-01-16,Monday,30.6,heavy rain,24,0.5,12
+2017-01-17,Tuesday,32.2,heavy rain,26,0.5,14
+2017-01-18,Wednesday,42.8,heavy rain,33,0.5,16
+2017-01-19,Thursday,43.1,heavy rain,30,0.5,17
+2017-01-20,Friday,31.6,heavy rain,20,0.5,12
+2017-01-21,Saturday,36.2,heavy rain,16,0.5,14
+2017-01-22,Sunday,40.8,heavy rain,19,0.5,16
+2017-01-23,Monday,38.1,heavy rain,21,0.5,17
+2017-01-24,Tuesday,28.6,heavy rain,20,0.5,12
+2017-01-25,Wednesday,32.2,heavy rain,24,0.5,14
+2017-01-26,Thursday,35.8,heavy rain,18,0.5,16
+2017-01-27,Friday,42.1,heavy rain,22,0.5,17
+2017-01-28,Saturday,34.9,heavy rain,15,0.5,13
+2017-01-29,Sunday,35.2,heavy rain,27,0.5,14
+2017-01-30,Monday,41.1,heavy rain,20,0.5,17
+2017-01-31,Tuesday,40.4,heavy rain,37,0.5,18
+2017-02-01,Wednesday,42.4,heavy rain,35,0.5,18
+2017-02-02,Thursday,52.0,heavy rain,22,0.5,20
+2017-02-03,Friday,50.3,heavy rain,25,0.5,21
+2017-02-04,Saturday,56.6,light rain,46,0.5,22
+2017-02-05,Sunday,45.4,heavy rain,32,0.5,18
+2017-02-06,Monday,45.0,heavy rain,28,0.5,20
+2017-02-07,Tuesday,52.3,heavy rain,39,0.5,21
+2017-02-08,Wednesday,52.6,heavy rain,31,0.5,22
+2017-02-09,Thursday,42.7,heavy rain,39,0.5,19
+2017-02-10,Friday,50.0,heavy rain,40,0.5,20
+2017-02-11,Saturday,51.3,heavy rain,35,0.5,21
+2017-02-12,Sunday,55.6,light rain,41,0.5,22
+2017-02-13,Monday,46.4,heavy rain,34,0.5,18
+2017-02-14,Tuesday,47.7,heavy rain,35,0.5,19
+2017-02-15,Wednesday,52.0,heavy rain,33,0.5,20
+2017-02-16,Thursday,47.3,heavy rain,31,0.5,21
+2017-02-17,Friday,40.4,heavy rain,29,0.5,18
+2017-02-18,Saturday,43.7,heavy rain,25,0.5,19
+2017-02-19,Sunday,50.0,heavy rain,28,0.5,20
+2017-02-20,Monday,50.3,heavy rain,25,0.5,21
+2017-02-21,Tuesday,42.4,heavy rain,28,0.5,18
+2017-02-22,Wednesday,47.7,heavy rain,36,0.5,19
+2017-02-23,Thursday,45.0,heavy rain,23,0.5,20
+2017-02-24,Friday,47.3,heavy rain,36,0.5,21
+2017-02-25,Saturday,42.4,heavy rain,21,0.5,18
+2017-02-26,Sunday,48.7,heavy rain,32,0.5,19
+2017-02-27,Monday,45.0,heavy rain,34,0.5,20
+2017-02-28,Tuesday,49.6,heavy rain,45,0.5,22
+2017-03-01,Wednesday,57.9,heavy rain,46,0.5,23
+2017-03-02,Thursday,57.2,light rain,31,0.5,24
+2017-03-03,Friday,60.2,light rain,28,0.5,24
+2017-03-04,Saturday,59.5,light rain,29,0.5,25
+2017-03-05,Sunday,55.9,heavy rain,32,0.5,23
+2017-03-06,Monday,61.2,light rain,28,0.5,24
+2017-03-07,Tuesday,60.2,light rain,32,0.5,24
+2017-03-08,Wednesday,58.5,light rain,43,0.5,25
+2017-03-09,Thursday,52.9,light rain,29,0.5,23
+2017-03-10,Friday,59.2,light rain,31,0.5,24
+2017-03-11,Saturday,58.2,light rain,30,0.5,24
+2017-03-12,Sunday,61.5,light rain,47,0.5,25
+2017-03-13,Monday,55.9,heavy rain,48,0.5,23
+2017-03-14,Tuesday,58.9,heavy rain,35,0.5,23
+2017-03-15,Wednesday,56.2,light rain,30,0.5,24
+2017-03-16,Thursday,60.2,light rain,39,0.5,24
+2017-03-17,Friday,56.5,light rain,50,0.5,25
+2017-03-18,Saturday,53.9,light rain,32,0.5,23
+2017-03-19,Sunday,56.9,light rain,38,0.5,23
+2017-03-20,Monday,58.2,light rain,33,0.5,24
+2017-03-21,Tuesday,57.2,light rain,36,0.5,24
+2017-03-22,Wednesday,56.5,light rain,38,0.5,25
+2017-03-23,Thursday,55.9,heavy rain,35,0.5,23
+2017-03-24,Friday,56.9,light rain,41,0.5,23
+2017-03-25,Saturday,58.2,light rain,50,0.5,24
+2017-03-26,Sunday,59.5,light rain,39,0.5,25
+2017-03-27,Monday,60.5,light rain,30,0.5,25
+2017-03-28,Tuesday,55.9,light rain,48,0.5,23
+2017-03-29,Wednesday,57.2,light rain,39,0.5,24
+2017-03-30,Thursday,55.2,light rain,47,0.5,24
+2017-03-31,Friday,58.5,light rain,48,0.5,25
+2017-04-01,Saturday,57.5,light rain,33,0.5,25
+2017-04-02,Sunday,65.8,light rain,47,0.5,26
+2017-04-03,Monday,60.8,light rain,51,0.5,26
+2017-04-04,Tuesday,62.1,light rain,31,0.5,27
+2017-04-05,Wednesday,64.4,light rain,33,0.5,28
+2017-04-06,Thursday,57.5,light rain,31,0.5,25
+2017-04-07,Friday,59.8,light rain,44,0.5,26
+2017-04-08,Saturday,63.8,light rain,37,0.5,26
+2017-04-09,Sunday,63.1,sunny,52,0.5,27
+2017-04-10,Monday,58.5,light rain,48,0.5,25
+2017-04-11,Tuesday,60.8,light rain,34,0.5,26
+2017-04-12,Wednesday,66.1,light rain,30,0.5,27
+2017-04-13,Thursday,61.1,sunny,46,0.5,27
+2017-04-14,Friday,61.5,light rain,49,0.5,25
+2017-04-15,Saturday,65.8,light rain,41,0.5,26
+2017-04-16,Sunday,65.1,sunny,43,0.5,27
+2017-04-17,Monday,64.1,light rain,56,0.5,27
+2017-04-18,Tuesday,62.5,light rain,31,0.5,25
+2017-04-19,Wednesday,59.8,light rain,53,0.5,26
+2017-04-20,Thursday,68.1,sunny,42,0.5,27
+2017-04-21,Friday,67.1,light rain,48,0.5,27
+2017-04-22,Saturday,57.5,light rain,47,0.5,25
+2017-04-23,Sunday,60.8,light rain,50,0.5,26
+2017-04-24,Monday,65.1,sunny,48,0.5,27
+2017-04-25,Tuesday,65.1,light rain,37,0.5,27
+2017-04-26,Wednesday,62.5,light rain,48,0.5,25
+2017-04-27,Thursday,63.5,light rain,50,0.5,25
+2017-04-28,Friday,58.8,light rain,32,0.5,26
+2017-04-29,Saturday,65.1,light rain,32,0.5,27
+2017-04-30,Sunday,67.1,light rain,35,0.5,27
+2017-05-01,Monday,66.7,sunny,56,0.5,29
+2017-05-02,Tuesday,65.7,sunny,40,0.5,29
+2017-05-03,Wednesday,71.0,sunny,55,0.5,30
+2017-05-04,Thursday,71.3,sunny,64,0.5,31
+2017-05-05,Friday,69.4,light rain,31,0.5,28
+2017-05-06,Saturday,66.7,sunny,51,0.5,29
+2017-05-07,Sunday,69.7,sunny,49,0.5,29
+2017-05-08,Monday,75.0,sunny,56,0.5,30
+2017-05-09,Tuesday,71.3,sunny,56,0.5,31
+2017-05-10,Wednesday,69.4,sunny,40,0.5,28
+2017-05-11,Thursday,72.7,sunny,57,0.5,29
+2017-05-12,Friday,66.7,sunny,40,0.5,29
+2017-05-13,Saturday,70.0,sunny,34,0.5,30
+2017-05-14,Sunday,77.3,sunny,58,0.5,31
+2017-05-15,Monday,63.4,sunny,32,0.5,28
+2017-05-16,Tuesday,65.7,sunny,55,0.5,29
+2017-05-17,Wednesday,70.7,sunny,43,0.5,29
+2017-05-18,Thursday,72.0,sunny,53,0.5,30
+2017-05-19,Friday,75.3,sunny,58,0.5,31
+2017-05-20,Saturday,64.4,sunny,59,0.5,28
+2017-05-21,Sunday,71.7,sunny,47,0.5,29
+2017-05-22,Monday,71.0,sunny,34,0.5,30
+2017-05-23,Tuesday,76.3,sunny,45,0.5,31
+2017-05-24,Wednesday,69.4,sunny,34,0.5,28
+2017-05-25,Thursday,71.7,sunny,53,0.5,29
+2017-05-26,Friday,72.0,sunny,63,0.5,30
+2017-05-27,Saturday,77.3,sunny,56,0.5,31
+2017-05-28,Sunday,71.7,sunny,45,0.5,29
+2017-05-29,Monday,66.7,sunny,32,0.5,29
+2017-05-30,Tuesday,75.0,sunny,43,0.5,30
+2017-05-31,Wednesday,77.3,sunny,56,0.5,31
+2017-06-01,Thursday,71.3,sunny,42,0.5,31
+2017-06-02,Friday,79.9,sunny,48,0.5,33
+2017-06-03,Saturday,81.5,sunny,59,0.5,35
+2017-06-04,Sunday,90.4,sunny,43,0.5,38
+2017-06-05,Monday,78.6,sunny,36,0.5,32
+2017-06-06,Tuesday,84.2,sunny,44,0.5,34
+2017-06-07,Wednesday,86.8,sunny,58,0.5,36
+2017-06-08,Thursday,90.7,sunny,46,0.5,39
+2017-06-09,Friday,77.6,sunny,44,0.5,32
+2017-06-10,Saturday,79.5,sunny,54,0.5,35
+2017-06-11,Sunday,84.8,sunny,42,0.5,36
+2017-06-12,Monday,93.0,sunny,67,0.5,40
+2017-06-13,Tuesday,75.6,sunny,65,0.5,32
+2017-06-14,Wednesday,80.5,sunny,48,0.5,35
+2017-06-15,Thursday,84.8,sunny,50,0.5,36
+2017-06-16,Friday,99.3,sunny,77,0.5,41
+2017-06-17,Saturday,76.3,sunny,47,0.5,31
+2017-06-18,Sunday,72.6,sunny,60,0.5,32
+2017-06-19,Monday,86.5,sunny,66,0.5,35
+2017-06-20,Tuesday,85.1,sunny,70,0.5,37
+2017-06-21,Wednesday,94.3,sunny,76,0.5,41
+2017-06-22,Thursday,72.3,sunny,36,0.5,31
+2017-06-23,Friday,79.9,sunny,39,0.5,33
+2017-06-24,Saturday,80.5,sunny,50,0.5,35
+2017-06-25,Sunday,85.1,sunny,58,0.5,37
+2017-06-26,Monday,102.6,sunny,60,0.5,42
+2017-06-27,Tuesday,75.3,sunny,62,0.5,31
+2017-06-28,Wednesday,75.9,sunny,65,0.5,33
+2017-06-29,Thursday,86.5,sunny,64,0.5,35
+2017-06-30,Friday,89.4,sunny,47,0.5,38
+2017-07-01,Saturday,102.9,sunny,59,0.5,43
+2017-07-02,Sunday,93.4,sunny,68,0.5,38
+2017-07-03,Monday,81.5,sunny,68,0.5,35
+2017-07-04,Tuesday,84.2,sunny,49,0.5,34
+2017-07-05,Wednesday,73.6,sunny,55,0.5,32
+2017-07-06,Thursday,91.7,sunny,46,0.5,39
+2017-07-07,Friday,82.5,sunny,41,0.5,35
+2017-07-08,Saturday,83.2,sunny,44,0.5,34
+2017-07-09,Sunday,77.9,sunny,44,0.5,33
+2017-07-10,Monday,98.0,sunny,66,0.5,40
+2017-07-11,Tuesday,83.5,sunny,40,0.5,35
+2017-07-12,Wednesday,80.2,sunny,39,0.5,34
+2017-07-13,Thursday,78.9,sunny,49,0.5,33
+2017-07-14,Friday,92.0,sunny,80,0.5,40
+2017-07-15,Saturday,82.5,sunny,56,0.5,35
+2017-07-16,Sunday,79.2,sunny,50,0.5,34
+2017-07-17,Monday,80.9,sunny,64,0.5,33
+2017-07-18,Tuesday,99.3,sunny,76,0.5,41
+2017-07-19,Wednesday,83.8,sunny,44,0.5,36
+2017-07-20,Thursday,86.5,sunny,44,0.5,35
+2017-07-21,Friday,76.9,sunny,59,0.5,33
+2017-07-22,Saturday,99.6,sunny,49,0.5,42
+2017-07-23,Sunday,89.1,sunny,72,0.5,37
+2017-07-24,Monday,83.5,sunny,69,0.5,35
+2017-07-25,Tuesday,79.9,sunny,64,0.5,33
+2017-07-26,Wednesday,76.6,sunny,37,0.5,32
+2017-07-27,Thursday,97.9,sunny,74,0.5,43
+2017-07-28,Friday,87.4,sunny,58,0.5,38
+2017-07-29,Saturday,85.5,sunny,50,0.5,35
+2017-07-30,Sunday,78.2,sunny,52,0.5,34
+2017-07-31,Monday,74.6,sunny,38,0.5,32
+2017-08-01,Tuesday,75.6,sunny,56,0.5,32
+2017-08-02,Wednesday,76.3,sunny,48,0.5,31
+2017-08-03,Thursday,75.0,sunny,52,0.5,30
+2017-08-04,Friday,70.7,sunny,34,0.5,29
+2017-08-05,Saturday,76.6,sunny,66,0.5,32
+2017-08-06,Sunday,77.3,sunny,36,0.5,31
+2017-08-07,Monday,75.0,sunny,38,0.5,30
+2017-08-08,Tuesday,68.7,sunny,50,0.5,29
+2017-08-09,Wednesday,76.6,sunny,55,0.5,32
+2017-08-10,Thursday,70.3,sunny,56,0.5,31
+2017-08-11,Friday,75.0,sunny,49,0.5,30
+2017-08-12,Saturday,67.7,sunny,43,0.5,29
+2017-08-13,Sunday,67.7,sunny,54,0.5,29
+2017-08-14,Monday,72.6,sunny,43,0.5,32
+2017-08-15,Tuesday,74.3,sunny,44,0.5,31
+2017-08-16,Wednesday,71.0,sunny,49,0.5,30
+2017-08-17,Thursday,68.0,sunny,42,0.5,30
+2017-08-18,Friday,65.7,sunny,45,0.5,29
+2017-08-19,Saturday,79.6,sunny,58,0.5,32
+2017-08-20,Sunday,74.3,sunny,53,0.5,31
+2017-08-21,Monday,68.0,sunny,58,0.5,30
+2017-08-22,Tuesday,69.0,sunny,55,0.5,30
+2017-08-23,Wednesday,70.7,sunny,33,0.5,29
+2017-08-24,Thursday,74.6,sunny,64,0.5,32
+2017-08-25,Friday,71.0,sunny,55,0.5,30
+2017-08-26,Saturday,70.0,sunny,46,0.5,30
+2017-08-27,Sunday,65.7,sunny,45,0.5,29
+2017-08-28,Monday,77.6,sunny,49,0.5,32
+2017-08-29,Tuesday,75.0,sunny,40,0.5,30
+2017-08-30,Wednesday,72.0,sunny,51,0.5,30
+2017-08-31,Thursday,67.7,sunny,58,0.5,29
+2017-09-01,Friday,71.7,sunny,41,0.5,29
+2017-09-02,Saturday,67.4,sunny,53,0.5,28
+2017-09-03,Sunday,61.1,sunny,50,0.5,27
+2017-09-04,Monday,59.8,light rain,54,0.5,26
+2017-09-05,Tuesday,61.8,light rain,39,0.5,26
+2017-09-06,Wednesday,71.7,sunny,60,0.5,29
+2017-09-07,Thursday,68.4,sunny,49,0.5,28
+2017-09-08,Friday,65.1,light rain,37,0.5,27
+2017-09-09,Saturday,64.8,light rain,45,0.5,26
+2017-09-10,Sunday,61.8,light rain,50,0.5,26
+2017-09-11,Monday,68.4,sunny,38,0.5,28
+2017-09-12,Tuesday,61.1,light rain,36,0.5,27
+2017-09-13,Wednesday,64.8,light rain,42,0.5,26
+2017-09-14,Thursday,63.8,light rain,29,0.5,26
+2017-09-15,Friday,63.4,sunny,41,0.5,28
+2017-09-16,Saturday,68.1,sunny,37,0.5,27
+2017-09-17,Sunday,59.8,light rain,53,0.5,26
+2017-09-18,Monday,64.8,light rain,37,0.5,26
+2017-09-19,Tuesday,67.4,sunny,48,0.5,28
+2017-09-20,Wednesday,67.1,sunny,52,0.5,27
+2017-09-21,Thursday,59.8,light rain,42,0.5,26
+2017-09-22,Friday,64.8,light rain,34,0.5,26
+2017-09-23,Saturday,63.4,light rain,39,0.5,28
+2017-09-24,Sunday,63.4,light rain,43,0.5,28
+2017-09-25,Monday,61.1,light rain,33,0.5,27
+2017-09-26,Tuesday,61.8,light rain,51,0.5,26
+2017-09-27,Wednesday,70.7,sunny,51,0.5,29
+2017-09-28,Thursday,67.4,sunny,38,0.5,28
+2017-09-29,Friday,66.1,light rain,48,0.5,27
+2017-09-30,Saturday,64.8,light rain,29,0.5,26
+2017-10-01,Sunday,56.5,light rain,43,0.5,25
+2017-10-02,Monday,58.5,light rain,32,0.5,25
+2017-10-03,Tuesday,59.2,light rain,34,0.5,24
+2017-10-04,Wednesday,61.2,light rain,33,0.5,24
+2017-10-05,Thursday,60.5,light rain,33,0.5,25
+2017-10-06,Friday,62.5,light rain,42,0.5,25
+2017-10-07,Saturday,63.5,light rain,31,0.5,25
+2017-10-08,Sunday,60.2,light rain,47,0.5,24
+2017-10-09,Monday,63.5,light rain,47,0.5,25
+2017-10-10,Tuesday,58.5,light rain,51,0.5,25
+2017-10-11,Wednesday,61.5,light rain,47,0.5,25
+2017-10-12,Thursday,58.2,light rain,39,0.5,24
+2017-10-13,Friday,61.5,light rain,28,0.5,25
+2017-10-14,Saturday,59.5,light rain,28,0.5,25
+2017-10-15,Sunday,61.5,light rain,36,0.5,25
+2017-10-16,Monday,58.2,light rain,28,0.5,24
+2017-10-17,Tuesday,58.5,light rain,46,0.5,25
+2017-10-18,Wednesday,62.5,light rain,33,0.5,25
+2017-10-19,Thursday,60.5,light rain,41,0.5,25
+2017-10-20,Friday,60.2,light rain,50,0.5,24
+2017-10-21,Saturday,56.2,light rain,28,0.5,24
+2017-10-22,Sunday,57.5,light rain,35,0.5,25
+2017-10-23,Monday,58.5,light rain,50,0.5,25
+2017-10-24,Tuesday,61.5,light rain,48,0.5,25
+2017-10-25,Wednesday,61.2,light rain,44,0.5,24
+2017-10-26,Thursday,54.2,light rain,47,0.5,24
+2017-10-27,Friday,62.8,light rain,52,0.5,26
+2017-10-28,Saturday,57.5,light rain,28,0.5,25
+2017-10-29,Sunday,61.5,light rain,34,0.5,25
+2017-10-30,Monday,58.2,light rain,35,0.5,24
+2017-10-31,Tuesday,54.2,light rain,38,0.5,24
+2017-11-01,Wednesday,51.9,light rain,43,0.5,23
+2017-11-02,Thursday,53.6,heavy rain,46,0.5,22
+2017-11-03,Friday,51.3,heavy rain,38,0.5,21
+2017-11-04,Saturday,48.7,heavy rain,39,0.5,19
+2017-11-05,Sunday,55.9,heavy rain,45,0.5,23
+2017-11-06,Monday,51.6,heavy rain,28,0.5,22
+2017-11-07,Tuesday,52.3,heavy rain,34,0.5,21
+2017-11-08,Wednesday,44.7,heavy rain,37,0.5,19
+2017-11-09,Thursday,53.9,light rain,33,0.5,23
+2017-11-10,Friday,54.6,heavy rain,28,0.5,22
+2017-11-11,Saturday,47.3,heavy rain,33,0.5,21
+2017-11-12,Sunday,49.7,heavy rain,38,0.5,19
+2017-11-13,Monday,44.7,heavy rain,26,0.5,19
+2017-11-14,Tuesday,55.9,light rain,28,0.5,23
+2017-11-15,Wednesday,55.9,light rain,47,0.5,23
+2017-11-16,Thursday,47.3,heavy rain,28,0.5,21
+2017-11-17,Friday,46.0,heavy rain,31,0.5,20
+2017-11-18,Saturday,48.7,heavy rain,37,0.5,19
+2017-11-19,Sunday,55.9,heavy rain,34,0.5,23
+2017-11-20,Monday,55.6,heavy rain,41,0.5,22
+2017-11-21,Tuesday,47.0,heavy rain,28,0.5,20
+2017-11-22,Wednesday,48.7,heavy rain,40,0.5,19
+2017-11-23,Thursday,51.9,heavy rain,47,0.5,23
+2017-11-24,Friday,53.6,light rain,46,0.5,22
+2017-11-25,Saturday,49.0,heavy rain,32,0.5,20
+2017-11-26,Sunday,49.7,heavy rain,30,0.5,19
+2017-11-27,Monday,53.9,heavy rain,30,0.5,23
+2017-11-28,Tuesday,54.6,heavy rain,37,0.5,22
+2017-11-29,Wednesday,50.0,heavy rain,27,0.5,20
+2017-11-30,Thursday,44.7,heavy rain,28,0.5,19
+2017-12-01,Friday,48.7,heavy rain,34,0.5,19
+2017-12-02,Saturday,44.1,heavy rain,35,0.5,17
+2017-12-03,Sunday,33.5,heavy rain,19,0.5,15
+2017-12-04,Monday,34.9,heavy rain,16,0.5,13
+2017-12-05,Tuesday,22.0,heavy rain,11,0.5,10
+2017-12-06,Wednesday,44.7,heavy rain,28,0.5,19
+2017-12-07,Thursday,42.1,heavy rain,26,0.5,17
+2017-12-08,Friday,40.5,heavy rain,30,0.5,15
+2017-12-09,Saturday,31.2,heavy rain,19,0.5,14
+2017-12-10,Sunday,31.3,heavy rain,15,0.5,11
+2017-12-11,Monday,45.1,heavy rain,33,0.5,17
+2017-12-12,Tuesday,33.5,heavy rain,22,0.5,15
+2017-12-13,Wednesday,32.2,heavy rain,26,0.5,14
+2017-12-14,Thursday,31.9,heavy rain,24,0.5,13
+2017-12-15,Friday,42.1,heavy rain,30,0.5,17
+2017-12-16,Saturday,35.5,heavy rain,30,0.5,15
+2017-12-17,Sunday,32.2,heavy rain,16,0.5,14
+2017-12-18,Monday,30.9,heavy rain,27,0.5,13
+2017-12-19,Tuesday,41.4,heavy rain,33,0.5,18
+2017-12-20,Wednesday,36.8,heavy rain,20,0.5,16
+2017-12-21,Thursday,40.5,heavy rain,23,0.5,15
+2017-12-22,Friday,30.9,heavy rain,17,0.5,13
+2017-12-23,Saturday,42.4,heavy rain,20,0.5,18
+2017-12-24,Sunday,35.8,heavy rain,26,0.5,16
+2017-12-25,Monday,35.5,heavy rain,19,0.5,15
+2017-12-26,Tuesday,28.9,heavy rain,23,0.5,13
+2017-12-27,Wednesday,42.7,heavy rain,33,0.5,19
+2017-12-28,Thursday,37.8,heavy rain,32,0.5,16
+2017-12-29,Friday,39.5,heavy rain,17,0.5,15
+2017-12-30,Saturday,30.9,heavy rain,22,0.5,13
+2017-12-31,Sunday,15.1,heavy rain,9,0.5,7
